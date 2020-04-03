@@ -5,7 +5,7 @@
             "name": "Attach",
             "type": "node",
             "request": "attach",
-            "port": 5858,
+            "port": 9229,
             "address": "0.0.0.0",
             "restart": true,
             "sourceMaps": false,
